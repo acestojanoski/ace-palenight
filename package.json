@@ -6,7 +6,7 @@
 	"author": "Aleksandar Stojanoski",
 	"publisher": "acestojanoski",
 	"license": "MIT",
-	"icon": "screenshots/screenshot1.png",
+	"icon": "icon.png",
 	"repository": {
 		"type": "git",
 		"url": "git+https://github.com/acestojanoski/ace-palenight.git"
