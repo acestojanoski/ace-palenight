@@ -1,0 +1,40 @@
+{
+	"name": "ace-palenight",
+	"displayName": "Ace Palenight",
+	"version": "1.0.0",
+	"description": "Visual Studio Code theme, based on Palenight, Subliminal, and Ace Dark theme.",
+	"author": "Aleksandar Stojanoski",
+	"publisher": "acestojanoski",
+	"license": "MIT",
+	"icon": "https://github.com/acestojanoski/ace-palenight/raw/master/screenshots/screenshot1.png",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/acestojanoski/ace-palenight.git"
+	},
+	"engines": {
+		"vscode": "^1.22.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Ace Palenight",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Ace-Palenight-color-theme.json"
+			}
+		]
+	},
+	"keywords": [
+		"vscode",
+		"theme",
+		"palenight",
+		"dark",
+		"darktheme",
+		"acedark",
+		"ace",
+		"minimal",
+		"subliminal"
+	]
+}
