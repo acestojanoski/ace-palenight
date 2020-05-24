@@ -1,8 +1,8 @@
 {
 	"name": "ace-palenight",
 	"displayName": "Ace Palenight",
-	"version": "1.0.1",
-	"description": "Visual Studio Code theme, based on Palenight, Subliminal, and Ace Dark theme.",
+	"version": "1.0.2",
+	"description": "Visual Studio Code theme, based on Palenight, and Subliminal.",
 	"author": "Aleksandar Stojanoski",
 	"publisher": "acestojanoski",
 	"license": "MIT",

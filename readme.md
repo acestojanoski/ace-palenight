@@ -3,9 +3,9 @@
 [![Version](https://vsmarketplacebadge.apphb.com/version/acestojanoski.ace-palenight.svg)](https://marketplace.visualstudio.com/items?itemName=acestojanoski.ace-palenight)
 [![Downloads](https://img.shields.io/vscode-marketplace/d/acestojanoski.ace-palenight.svg)](https://marketplace.visualstudio.com/items?itemName=acestojanoski.ace-palenight)
 
-> Visual Studio Code theme, based on [Palenight](https://github.com/whizkydee/vscode-palenight-theme), [Subliminal](https://github.com/gaearon/subliminal), and [Ace Dark](https://github.com/acestojanoski/ace-dark) theme.
+> Visual Studio Code theme, based on [Palenight](https://github.com/whizkydee/vscode-palenight-theme), and [Subliminal](https://github.com/gaearon/subliminal).
 
-**Note: Pull requests are welcome.**
+Pull requests are welcome.
 
 ## Content
 
@@ -44,7 +44,7 @@ Add this configuration to your VS Code `settings.json` file:
 
 ## Credits
 * Thanks to [whizkydee](https://github.com/whizkydee) for the beautiful [Palenight Theme](https://github.com/whizkydee/vscode-palenight-theme) theme, which I used for the [`tokenColors`](https://code.visualstudio.com/api/extension-guides/color-theme) (font coloring). 
-* Thanks to [Dan Abramov](https://github.com/gaearon) for the beautiful [Subliminal](https://github.com/gaearon/subliminal) theme, which I used for the base editor colors.
+* Thanks to [gaearon](https://github.com/gaearon) for the beautiful [Subliminal](https://github.com/gaearon/subliminal) theme, which I used for the base editor colors.
 
 ## License
 [MIT](license)
