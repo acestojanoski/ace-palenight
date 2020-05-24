@@ -9,7 +9,7 @@
 	"icon": "icon.png",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/acestojanoski/ace-palenight.git"
+		"url": "https://github.com/acestojanoski/ace-palenight.git"
 	},
 	"engines": {
 		"vscode": "^1.22.0"
